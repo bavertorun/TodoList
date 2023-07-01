@@ -1,2 +1,2 @@
 # TodoList
-HTML CSS JS TodoList
+<img src="TodoList.png">
